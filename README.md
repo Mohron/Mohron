@@ -4,7 +4,7 @@ I am an Air Force veteran with over 10 years of experience in Information Techno
 I love games (electronic and physical) and technology and am trying to use my skills make a difference.
 
 ## I am experienced with:
-- JavaScript
+- JavaScript/TypeScript
 - Java
 - HTML/CSS
 - ReactJS
