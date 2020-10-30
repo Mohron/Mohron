@@ -1,16 +1,16 @@
-### Hi there 👋
+# About Me
+I am a full-stack software engineer currently working a [KesselRun](https://kesselrun.af.mil/) building the US Air Force's next-gen Mission Reporting Tool! 
+I am an Air Force veteran with over 10 years of experience in Information Technology and a Bachelors in Software Development. 
+I love games (electronic and physical) and technology and am trying to use my skills make a difference.
 
-<!--
-**Mohron/Mohron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am experienced with:
+- JavaScript
+- Java
+- HTML/CSS
+- ReactJS
+- NodeJS
+- SQL/PostgreSQL/MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am learning:
+- GraphQL
+- NoSQL (FaunaDB)
