@@ -1,7 +1,7 @@
 # About Me
 
-I am a senior full-stack software engineer! 
-I am an Air Force veteran with over 12 years of experience in Information Technology and a Bachelor's in Software Development. 
+I am a principal full-stack software engineer! 
+I am an Air Force veteran with over 14 years of experience in Information Technology and a Bachelor's in Software Development. 
 I love games (electronic and physical) and technology. I am trying to use my skills make a difference.
 
 ## I am experienced with:
@@ -20,15 +20,18 @@ I love games (electronic and physical) and technology. I am trying to use my ski
 
 - GraphQL
 - New Database Tech
+  - Convex
   - EdgeDB
   - SurrealDB
   - FaunaDB
 - Game Development
+ - Cocos
  - PlayCanavas
- - Unity/C#
+ - Godot/C#
 
 ## Places I've Worked
 
+- [Clarity Innovations](https://www.clarityinnovates.com/) 2024-Current
 - [DEPT® (Rocket Insights)](https://www.rocketinsights.com/) 2021-2023
 - [KesselRun](https://kesselrun.af.mil/) 2019-2021
 - TransUnion 2018-2019
